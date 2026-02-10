@@ -114,9 +114,7 @@ Frontend disponível em:
 
 http://localhost:5173
 
-📸 Preview
-
-(adicione prints ou GIFs da aplicação aqui – isso aumenta MUITO o impacto no portfólio)
+Preview
 
 Próximos Melhoramentos
 
