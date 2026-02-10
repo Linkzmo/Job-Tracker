@@ -1,0 +1,19 @@
+# dependencies
+node_modules
+
+# prisma
+backend/prisma/dev.db
+backend/prisma/dev.db-journal
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# build
+dist
+frontend/dist
+
+# env
+.env
